@@ -6,7 +6,7 @@
 ### Stack
 - React
 - React Context API
-- Materail UI
+- Material UI
 - Flex Box
 - Spotify API
 
